@@ -1,3 +1,4 @@
 nginx
 illasoft/illa-builder
 homeassistant/home-assistant
+tailscale/tailscale
