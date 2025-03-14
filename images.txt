@@ -3,7 +3,7 @@
 # 2.无代码框架
 # illasoft/illa-builder
 # 3
-homeassistant/home-assistant 2025.3
+homeassistant/home-assistant:2025.3
 # 4
 # tailscale/tailscale
 # 5.我的世界服务器
