@@ -10,4 +10,6 @@
 # itzg/minecraft-server
 # 6.clash
 # dreamacro/clash
-haishanh/yacd
+# haishanh/yacd
+# palWorld
+jammsen/palworld-dedicated-server:latest
