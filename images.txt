@@ -12,4 +12,5 @@
 # dreamacro/clash
 # haishanh/yacd
 # palWorld
-jammsen/palworld-dedicated-server:latest
+# jammsen/palworld-dedicated-server:latest
+jazzdd/wol:latest
