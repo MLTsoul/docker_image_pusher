@@ -5,7 +5,7 @@
 # 3
 # homeassistant/home-assistant:latest
 # 4
-# tailscale/tailscale
+tailscale/tailscale
 # 5.我的世界服务器
 # itzg/minecraft-server
 # 6.clash
@@ -13,4 +13,4 @@
 # haishanh/yacd
 # palWorld
 # jammsen/palworld-dedicated-server:latest
-jazzdd/wol:latest
+# jazzdd/wol:latest
