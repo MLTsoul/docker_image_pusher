@@ -7,7 +7,7 @@
 # 4
 tailscale/tailscale
 # 5.我的世界服务器
-# itzg/minecraft-server
+itzg/minecraft-server
 # 6.clash
 # dreamacro/clash
 # haishanh/yacd
