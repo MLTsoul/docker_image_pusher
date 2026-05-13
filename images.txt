@@ -14,3 +14,4 @@ itzg/minecraft-server
 # palWorld
 # jammsen/palworld-dedicated-server:latest
 # jazzdd/wol:latest
+whyour/qinglong:2.20.2
