@@ -14,4 +14,5 @@ itzg/minecraft-server
 # palWorld
 # jammsen/palworld-dedicated-server:latest
 # jazzdd/wol:latest
-whyour/qinglong:2.20.2
+# whyour/qinglong:2.20.2
+ghcr.io/sillytavern/sillytavern:latest
